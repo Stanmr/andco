@@ -1,0 +1,45 @@
+/* generated in /var/www/html/andco.mx/public_html/wp-content/themes/azaleawp/assets/custom-styles/general-custom-styles.php azalea_eltdf_design_styles function */
+::selection { background: #939393;}
+
+/* generated in /var/www/html/andco.mx/public_html/wp-content/themes/azaleawp/assets/custom-styles/general-custom-styles.php azalea_eltdf_design_styles function */
+::-moz-selection { background: #939393;}
+
+/* generated in /var/www/html/andco.mx/public_html/wp-content/themes/azaleawp/assets/custom-styles/general-custom-styles.php azalea_eltdf_content_styles function */
+.eltdf-content .eltdf-content-inner > .eltdf-full-width > .eltdf-full-width-inner { padding-top: 0px;}
+
+/* generated in /var/www/html/andco.mx/public_html/wp-content/themes/azaleawp/assets/custom-styles/general-custom-styles.php azalea_eltdf_content_styles function */
+.eltdf-content .eltdf-content-inner > .eltdf-container > .eltdf-container-inner { padding-top: 70px;}
+
+/* generated in /var/www/html/andco.mx/public_html/wp-content/themes/azaleawp/framework/modules/error404/custom-styles/custom-styles.php azalea_eltdf_404_header_general_styles function */
+.eltdf-404-page .eltdf-page-header { background-color: rgba(255, 255, 255, 1) !important;}
+
+/* generated in /var/www/html/andco.mx/public_html/wp-content/themes/azaleawp/framework/modules/error404/custom-styles/custom-styles.php azalea_eltdf_404_header_general_styles function */
+.eltdf-404-page .eltdf-page-header .eltdf-menu-area { border-color: #ffffff;}
+
+/* generated in /var/www/html/andco.mx/public_html/wp-content/themes/azaleawp/framework/modules/error404/custom-styles/custom-styles.php azalea_eltdf_404_footer_top_general_styles function */
+.eltdf-404-page .eltdf-content { background-color: #fcfcfc;}
+
+/* generated in /var/www/html/andco.mx/public_html/wp-content/themes/azaleawp/framework/modules/header/types/top-header/admin/custom-styles/top-header-custom-styles.php azalea_eltdf_header_top_bar_styles function */
+.eltdf-top-bar-background { height: 91px;}
+
+/* generated in /var/www/html/andco.mx/public_html/wp-content/themes/azaleawp/framework/modules/header/admin/custom-styles/header-custom-styles.php azalea_eltdf_main_menu_styles function */
+.eltdf-main-menu > ul > li > a:hover { color: #0a0a0a;}
+
+/* generated in /var/www/html/andco.mx/public_html/wp-content/themes/azaleawp/framework/modules/header/admin/custom-styles/header-custom-styles.php azalea_eltdf_main_menu_styles function */
+.eltdf-dark-header .eltdf-page-header > div:not(.eltdf-sticky-header):not(.eltdf-fixed-wrapper) .eltdf-main-menu > ul > li > a:hover { color: #0a0a0a;}
+
+/* generated in /var/www/html/andco.mx/public_html/wp-content/themes/azaleawp/framework/modules/header/admin/custom-styles/header-custom-styles.php azalea_eltdf_main_menu_styles function */
+.eltdf-dark-header .eltdf-page-header > div:not(.eltdf-sticky-header):not(.eltdf-fixed-wrapper) .eltdf-main-menu > ul > li.eltdf-active-item > a { color: #0a0a0a;}
+
+/* generated in /var/www/html/andco.mx/public_html/wp-content/themes/azaleawp/framework/modules/header/admin/custom-styles/header-custom-styles.php azalea_eltdf_main_menu_styles function */
+.eltdf-drop-down .second .inner > ul > li > a { color: #ffffff;}
+
+/* generated in /var/www/html/andco.mx/public_html/wp-content/themes/azaleawp/framework/modules/header/admin/custom-styles/header-custom-styles.php azalea_eltdf_main_menu_styles function */
+.eltdf-drop-down .second .inner > ul > li > a:hover, .eltdf-drop-down .second .inner > ul > li.current-menu-ancestor > a, .eltdf-drop-down .second .inner > ul > li.current-menu-item > a { color: #ffffff !important;}
+
+/* generated in /var/www/html/andco.mx/public_html/wp-content/themes/azaleawp/framework/modules/sidearea/custom-styles/sidearea.php azalea_eltdf_side_area_icon_color_styles function */
+.eltdf-side-menu a.eltdf-close-side-menu { color: #808285;}
+
+/* generated in /var/www/html/andco.mx/public_html/wp-content/themes/azaleawp/framework/modules/sidearea/custom-styles/sidearea.php azalea_eltdf_side_area_styles function */
+.eltdf-side-menu { background-color: #212121;}
+
